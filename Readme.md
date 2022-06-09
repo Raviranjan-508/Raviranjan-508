@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **FULL-STACK-WEB-DEVELOPMENT**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://raviranjan508.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://raviranjankr.netlify.app/)
 
 - 👯 I’m looking to collaborate on **competitive programming.**
 
